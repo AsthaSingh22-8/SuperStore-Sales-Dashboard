@@ -55,5 +55,4 @@ The goal of this project is to design an interactive dashboard using **Power BI*
 - **Interactive Charts & Maps**
 ---
 
-## 📌 Folder Structure
 
